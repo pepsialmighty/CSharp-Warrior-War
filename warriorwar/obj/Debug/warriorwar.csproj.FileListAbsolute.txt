@@ -1,0 +1,7 @@
+D:\warriorwar\warriorwar\obj\Debug\warriorwar.csprojAssemblyReference.cache
+D:\warriorwar\warriorwar\obj\Debug\warriorwar.csproj.CoreCompileInputs.cache
+D:\warriorwar\warriorwar\bin\Debug\warriorwar.exe.config
+D:\warriorwar\warriorwar\bin\Debug\warriorwar.exe
+D:\warriorwar\warriorwar\bin\Debug\warriorwar.pdb
+D:\warriorwar\warriorwar\obj\Debug\warriorwar.exe
+D:\warriorwar\warriorwar\obj\Debug\warriorwar.pdb
